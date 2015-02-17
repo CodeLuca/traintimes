@@ -1,0 +1,2 @@
+Operator Codes - http://dysgraphyk.madasafish.com/rail/toc_codes.htm - I started just doing a ton of if statements in 'boards' cos I didn't know how else to do it.
+Station Codes - http://www.nationalrail.co.uk/static/documents/content/station_codes.csv - direct download to list (open in notepad)

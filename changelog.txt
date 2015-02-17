@@ -1,0 +1,12 @@
+Final changes to TrainTimes
+
+We are now saying farewell to this, our first Codrs' project.
+
+This is the first, but possibly final changelog.
+
+- Added select2 (The ability of station names dropping down as you type.)
+- Fixed styling accross the live departures
+- Fixed other minor bugs
+
+
+- Thanks to Nick for his help with select2.
